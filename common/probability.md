@@ -54,3 +54,4 @@ _Can usually be unfair depending on what is selected, **not advised**._
 
 - DM selects winning outcome before hand.
 - Defer the decision as a bet of sorts.
+  > Deferral would allow the player to choose what outcome they want to achieve - matching that outcome is a success for them.
