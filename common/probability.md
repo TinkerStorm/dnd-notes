@@ -33,7 +33,7 @@ Can be inclusive of the numbers they specify or not - DMs decision.
 
 > This table utilizes [Interval notation (`undergroundmathematics.org`)](https://undergroundmathematics.org/glossary/interval-notation) for it's shorthand descriptions in plain text. If read using the wrong context, they can be mistaken for coordiates _as noted on the referenced page_.
 
-|      Range Type | Notation              | Shorthand          | Matches       |
+|      Range Type | Fotation              | Shorthand          | Matches       |
 | ---------------:|:---------------------:|:------------------:| ------------- |
 |       Exclusive | $\{n:5 <   n >   9\}$ | $(5,9)$ - `(5,9)`  | 6, 7, 8       |
 |  Inclusive open | $\{n:5 \le n \ge 9\}$ | $[5,9]$ - `[5,9]`  | 5, 6, 7, 8, 9 |
@@ -56,7 +56,7 @@ _Can usually be unfair depending on what is selected, **not advised**._
 - Could allow more than one range.
   > $[5,9] + [12,16)$ - 6, 7, 8; 13, 14, 15, 16
 - Or a range, and a multiple.
-  > $[5,9] + 4N$ - 6, 7, 8; 4, 8, 12, ...
+  > $[5,9] + 4n$ - 6, 7, 8; 4, 8, 12, ...
 
 ## Coin flip
 
