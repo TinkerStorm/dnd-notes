@@ -37,7 +37,7 @@ Can be inclusive of the numbers they specify or not - DMs decision.
 | ---------------:|:-------------------:|:------------------:| ------------- |
 |       Exclusive | $\{n:5< n >9\}$     | $(5,9)$ - `(5,9)`  | 6, 7, 8       |
 |  Inclusive open | $\{n:5\le n\ge 9\}$ | $[5,9]$ - `[5,9]`  | 5, 6, 7, 8, 9 |
-|  Inclusive left | $\{n:5<n\ge9\}$     | $(5,9]$ - `(5,9]`  | 5, 6, 7, 8    |
+|  Inclusive left | $\{n:5<n\ge 9\}$     | $(5,9]$ - `(5,9]`  | 5, 6, 7, 8    |
 | Inclusive right | $\{n:5\le n>9\}$    | $[5,9)$ - `[5,9)`  | 6, 7, 8, 9    |
 
 There are 'range types' for left only and right only, which would omit the operand for the other part of the range, and instead be noted as `>` / `>=` / `<` / `<=` by themselves (`5<` or `>=9`) or by Interval notation (i.e. `[5` or `9)`).
