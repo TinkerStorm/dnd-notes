@@ -9,7 +9,7 @@ Choose the dice notation for the roll - `1d20`, `2d6`, etc.
 _Shorthand notation for [algebraic notations](#algebraic-equation--mathematical-ranges-or-constants)_
 
 - Odds = $2n+1$
-- Evens = $2n$ or [$f(n)=n\sin{n}$ (`math.stackexchange.com`)](https://math.stackexchange.com/a/3899831)
+- Evens = $2n$ or $f(n)=n\sin{n}$ [Ref (`math.stackexchange.com`)](https://math.stackexchange.com/a/3899831)
 
 ### Multiple
 
