@@ -54,9 +54,9 @@ _Can usually be unfair depending on what is selected, **not advised**._
 ### Combinations
 
 - Could allow more than one range.
-  > $[5,9],[12,16)$ - 6, 7, 8; 13, 14, 15, 16
+  > $[5,9] + [12,16)$ - 6, 7, 8; 13, 14, 15, 16
 - Or a range, and a multiple.
-  > `[5,9];4N` - 6, 7, 8; 4, 8, 12, ...
+  > $[5,9] + 4N$ - 6, 7, 8; 4, 8, 12, ...
 
 ## Coin flip
 
