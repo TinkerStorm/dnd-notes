@@ -30,9 +30,9 @@ Dice rolls can be merged if they do not directly conflict with each other and co
 
 | Dice (min) | Forfeit | Knowledge | Description | Guidance |
 | ---- | ------- | --------- | ----------- | ---------- |
-| `1d12` | x4 | x6 | Linear progression is not linked. Direct conflict with `12`. | Maybe, maybe not. |
-| `1d4` | x2 | x4 | Knowledge can only be obtained after the forfeit is offered. | **Not advised.** |
-| `1d12` | x4 | >8 | Both can only be attained with `12` at minimum. | Recommended. |
+| `1d12` | $4n$ | $6n$ | Linear progression is not linked. Direct conflict with `12`. | Maybe, maybe not. |
+| `1d4` | $2n$ | $4n$ | Knowledge can only be obtained after the forfeit is offered. | **Not advised.** |
+| `1d12` | $4n$ | $>8$ | Both can only be attained with `12` at minimum. | Recommended. |
 
 #### Applying 'effects' after insight
 
