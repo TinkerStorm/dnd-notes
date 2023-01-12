@@ -9,8 +9,8 @@
 ### Forfeit option
 
 Choose if decision to forfeit is available, and if it should be decided by...
-- [A dice roll](#dice-roll)
-- [A coin flip](#coin-flip)
+- [A dice roll](../common/probability.md#dice-roll)
+- [A coin flip](../common/probability.md#coin-flip)
 - _Available by default_
 
 ### Combat knowledge threshold
