@@ -9,3 +9,5 @@
 
 - <https://anydice.com/>
 - <https://dice.clockworkmod.com/>
+- <https://www.desmos.com/calculator>
+- <https://www.omnicalculator.com/>
